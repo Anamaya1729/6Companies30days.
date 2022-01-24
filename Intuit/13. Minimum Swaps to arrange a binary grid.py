@@ -24,4 +24,3 @@ class Solution:
                 if v2 > v:
                     res += 1
         return res
-        
